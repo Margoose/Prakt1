@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "iostream"
 #include "fstream"
-#include "windows.h"
+//#include "windows.h"
 using namespace std;
 
 char bufRus[256];
