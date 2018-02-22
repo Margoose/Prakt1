@@ -1,4 +1,4 @@
-//#include "stdafx.h"
+22//#include "stdafx.h"
 #include "iostream"
 #include "fstream"
 #include "windows.h"
